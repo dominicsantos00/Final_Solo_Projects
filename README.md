@@ -1,2 +1,6 @@
-# weather-app
-weather app
+Multi-Utility Toolkit 🛠️A collection of functional web applications built to showcase frontend logic, API integration, and data visualization. This repository includes a Stopwatch, a Calculator, a Weather Dashboard, and a WordCloud Generator.🚀 
+📦 Included Applications
+1. ⏱️ Precision StopwatchA high-accuracy timer with a clean UI.Features: Start, Pause, Reset, and Lap functionality.Tech Highlight: Uses setInterval with time-correction logic to ensure accuracy.
+2. 🔢 Logic CalculatorA fully functional calculator for daily arithmetic.Features: Basic operations ($+$, $-$, $\times$, $\div$), decimal support, and percentage calculations.Tech Highlight: Implements a custom expression parser to handle order of operations.
+3. 🌤️ Dynamic Weather AppReal-time weather data fetched via OpenWeatherMap API.Features: Search by city, 5-day forecast, and dynamic backgrounds based on weather conditions (rainy, sunny, etc.).Tech Highlight: Handles asynchronous API calls and JSON data mapping.
+4. ☁️ WordCloud GeneratorA data visualization tool that turns text into a beautiful cloud of words.Features: Input text box, adjustable word frequency filters, and downloadable images.Tech Highlight: Utilizes a word-frequency algorithm to scale text size based on occurrence.🛠️ Technology StackFrontend: HTML5, CSS3, JavaScript (ES6+)APIs: OpenWeatherMap APILibraries: (e.g., D3.js for WordCloud, or FontAwesome for icons)
